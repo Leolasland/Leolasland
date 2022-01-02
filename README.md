@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Leolasland
-- 👀 I’m interested in Java.
+- 👋 Hi, I’m ***@Leolasland***
+- 👀 I’m interested in ***Java***.
 - 🌱 I’m currently learning ***Thinking in Java, by Bruce Eckel*** 
-- 📫 How to reach me: https://t.me/svetlana_603
+- 📫 How to reach me: ***https://t.me/svetlana_603***
 
 <!---
 - 💞️ I’m looking to collaborate on ...
