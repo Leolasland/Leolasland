@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Svetlana Tarasenko***,
 - 👀 I’m interested in ***Java***.
-- 🌱 I’m currently learning ***Thinking in Java, by Bruce Eckel***, ***SQL*** 
+- 🌱 I’m currently learning [***SQL***](https://www.hackerrank.com/hdanyel) 
 - 📫 How to reach me: [Telegram](https://t.me/svetlana_603)
 - 💞️ [My learning track](https://github.com/Leolasland/Leolasland/blob/main/log.md)
 <!---
