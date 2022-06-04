@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ***Svetlana Tarasenko***,
+- 👋 Hi, I’m ***Svetlana Davletgareeva***,
 - 👀 I’m interested in ***Java***.
 - 🌱 I’m currently learning [***SQL***](https://www.hackerrank.com/hdanyel) 
 - 📫 How to reach me: [Telegram](https://t.me/svetlana_603)
